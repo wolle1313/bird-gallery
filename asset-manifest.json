@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bird-gallery/static/css/main.810d4aec.chunk.css",
+    "main.js": "/bird-gallery/static/js/main.c9f00988.chunk.js",
+    "main.js.map": "/bird-gallery/static/js/main.c9f00988.chunk.js.map",
+    "runtime-main.js": "/bird-gallery/static/js/runtime-main.14c59174.js",
+    "runtime-main.js.map": "/bird-gallery/static/js/runtime-main.14c59174.js.map",
+    "static/js/2.56f383db.chunk.js": "/bird-gallery/static/js/2.56f383db.chunk.js",
+    "static/js/2.56f383db.chunk.js.map": "/bird-gallery/static/js/2.56f383db.chunk.js.map",
+    "index.html": "/bird-gallery/index.html",
+    "static/css/main.810d4aec.chunk.css.map": "/bird-gallery/static/css/main.810d4aec.chunk.css.map",
+    "static/js/2.56f383db.chunk.js.LICENSE.txt": "/bird-gallery/static/js/2.56f383db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14c59174.js",
+    "static/js/2.56f383db.chunk.js",
+    "static/css/main.810d4aec.chunk.css",
+    "static/js/main.c9f00988.chunk.js"
+  ]
+}

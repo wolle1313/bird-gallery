@@ -1,0 +1,38 @@
+[
+{
+"name": "czapla nadobna",
+"noPictures": 6,
+"description": {
+    "basic": "gatunek dużego ptaka z rodziny czaplowatych (Ardeidae), zamieszkujący Eurazję, Australazję i Afrykę. Nie jest zagrożony.",
+    "characteristics": "Upierzenie śnieżnobiałe, dziób niebieski, nogi ciemne, stopy jaskrawo żółte. W okresie godowym u nasady szyi, na grzbiecie i na ogonie wyrastają długie pióra, lekko uniesione o rozdzielonych promieniach, tworzące delikatną pelerynę. Te pióra mające 18–21 cm i będące jej ozdobą okazały się dla człowieka atrakcją: od średniowiecza po XVIII wiek sporządzano z nich kity zdobiące hełmy rycerstwa, czapki szlachty (także polskiej) i kapelusze wyższych oficerów, a nawet przybrania głów koni należących do możnowładców; modną dekoracją damską stały się w XIX wieku (egreta). Upierzenie spoczynkowe jest podobne, ale bez ozdobnych piór. Mniejsza w porównaniu z innymi czaplami. Można usłyszeć jej dźwięczne okrzyki „kark”. Jest 2 razy mniejsza od podobnej czapli białej, która nie ma piór ozdobnych na głowie, a tylko na grzbiecie (dł. 50 cm) oraz ma czarny dziób u nasady żółty.",
+    "measurements": "dł. ciała ok. 55–65 cm rozpiętość skrzydeł ok. 88–95 cm masa ciała ok. 450–600 g."
+} 
+},
+{
+"name": "kraska abisyjska",
+"noPictures": 9,
+"description": {
+    "basic": " gatunek średniej wielkości ptaka z rodziny krasek (Coraciidae). Występuje w Afryce – w strefie Sahelu i przyległych do jego południowych krańców obszarach – oraz w południowo-zachodniej części Półwyspu Arabskiego. Niezagrożony wyginięciem.",
+    "characteristics": "Broda i czoło białe, pozostała część głowy jasnoniebieska. Wierzch ciała brązowy z ciemnoniebieskim kuprem, pokrywami nadogonowymi i środkową częścią sterówek. Poza tym większa ich część ma barwę błękitną; dwie zewnętrzne sterówki są wydłużone, przypominając nieco chorągwie. Pokrywy skrzydłowe małe ciemnoniebieskie, poza tym skrzydła jasnoniebieskie, podobnie jak i cały spód ciała. Gardło i górną część piersi pokrywają delikatne, białe paski. Nie występuje dymorfizm płciowy. U osobników młodych upierzenie bardziej matowe, części niebieskie mają oliwkowy odcień, grzbiet i pierś brązowawe. Purpurowoniebieskie pokrywy skrzydłowe mniej wyróżniają się na tle całego skrzydła.",
+    "measurements": "Długość ciała wynosi 28–33 cm, nie licząc wydłużonych sterówek; wraz z nimi długość ciała zwiększa się o około 12 cm. Skrzydło mierzy 16–17,5 cm długości, ogon 14–15 cm (wraz z wydłużonymi piórami – 25–30 cm), dziób 36–40 mm, a skok 24–25 mm. Masa ciała mieści się w przedziale 99,5–140 g."
+} 
+},
+{
+"name": "pstrogłów żółtogardły",
+"noPictures": 5,
+"description": {
+    "basic": "gatunek małego ptaka z podrodziny pstrogłowów (Megalaiminae) w rodzinie tukanowatych (Ramphastidae). Występuje w południowej i południowo-wschodniej Azji. Nie jest zagrożony wyginięciem.",
+    "characteristics": "Zależnie od podgatunku, głowa czerwona z czarnymi pasami lub żółta z czarnymi pasami i czerwonym czołem. U wszystkich grzbiet zielony, brzuch jasny, ciemno prążkowany.",
+    "measurements": "Długość ciała: 15–17 cm. Masa ciała: 30–55 g."
+}
+},
+{
+"name": "rycyk",
+"noPictures": 4,
+"description": {
+    "basic": " gatunek średniej wielkości ptaka z rodziny bekasowatych (Scolopacidae). Bliski zagrożenia wyginięciem.",
+    "characteristics": "Słabo wyrażony dymorfizm płciowy, samice nieco większe niż samce. W szacie godowej głowa, szyja i górna część piersi rdzawe, potylica i ciemię z ciemnym, podłużnym kreskowaniem, przy czym samica ma mniej jaskrawe barwy. Wierzch ciała brązowordzawy z ciemnymi plamkami, spód ciała biały, na piersi i bokach czarne poprzeczne prążki. Ogon biało-czarny. Na skrzydłach w locie widoczne białe lusterka w postaci szerokich pasów, końcówki lotek czarne. Dziób prosty, żółty z czarnym końcem, nogi ciemne i długie. W szacie spoczynkowej kolor rdzawy zostaje zastąpiony szarością, brzuch jest białawy. Młode są podobne do dorosłych w szacie spoczynkowej, lecz z pewną domieszką koloru rdzawego.",
+    "measurements": "Długość ciała ok. 35–47 cm, rozpiętość skrzydeł ok. 70–80 cm. Masa ciała ok. 160–500 g."
+}
+}
+]

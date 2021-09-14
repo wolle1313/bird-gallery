@@ -1,0 +1,22 @@
+.descriptionWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.descriptionBird {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 50px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid black;
+  cursor: pointer;
+}
+.descriptionBird span {
+  font-size: 30px;
+  letter-spacing: 1px;
+}
+.descriptionBird img {
+  max-width: 80%;
+  margin-bottom: 20px;
+}

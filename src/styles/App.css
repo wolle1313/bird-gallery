@@ -1,0 +1,53 @@
+:root {
+  --menuHeight: 70px;
+  --headerHeight: 250px;
+  --footerHeight: 10vh;
+}
+
+.wrapper {
+  min-height: 100vh;
+  max-width: 1240px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff0d8;
+  box-sizing: border-box;
+}
+.wrapper > * {
+  width: 100%;
+  position: relative;
+}
+.menuTab {
+  height: var(--menuHeight);
+}
+header {
+  height: var(--headerHeight);
+}
+main {
+  box-sizing: border-box;
+  padding: 30px 20px;
+  min-height: calc(
+    100vh - var(--menuHeight) - var(--headerHeight) - var(--footerHeight)
+  );
+}
+footer {
+  height: var(--footerHeight);
+}
+
+.goBack,
+.goForward {
+  position: absolute;
+  top: 0;
+  height: 50px;
+  width: 50px;
+  line-height: 50px;
+  text-align: center;
+  font-size: 30px;
+  cursor: pointer;
+}
+.goBack {
+  left: 0;
+}
+.goForward {
+  left: 50px;
+}

@@ -1,0 +1,10 @@
+.gallerySingleWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.gallerySingle {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}

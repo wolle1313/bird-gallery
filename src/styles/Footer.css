@@ -1,0 +1,27 @@
+footer {
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: 2px solid black;
+}
+
+footer div {
+  display: flex;
+  flex-direction: column;
+  padding: 5px 0;
+  font-size: 20px;
+}
+
+footer div > * {
+  text-align: center;
+  text-decoration: none;
+}
+footer * a {
+  color: rgb(148, 147, 147);
+  height: 30px;
+}
+
+footer * a:hover {
+  border-bottom: 2px solid rgb(63, 63, 63);
+}

@@ -1,0 +1,29 @@
+#homeWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+#home h1 {
+  text-align: center;
+}
+.homeBird {
+  display: flex;
+  flex-direction: column;
+  width: 450px;
+  height: 250px;
+  padding: 30px 0;
+  align-items: center;
+}
+.homeBird img {
+  height: 100%;
+  width: 100%;
+  border: 2px solid #fff;
+  box-shadow: 10px 10px 5px #ccc;
+}
+.homeBird img:hover {
+  cursor: pointer;
+}
+.homeBird span {
+  padding-top: 10px;
+  font-size: 25px;
+}
